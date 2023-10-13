@@ -1,0 +1,7 @@
+# Sử dụng UTF-8 cho các tệp văn bản
+* text=auto
+
+# Các tệp dự án Java Spring Boot thường là các tệp văn bản
+*.java text
+*.xml text
+*.properties text
